@@ -3,7 +3,7 @@
 RandomChuck is a simple python script that creates random "songs" from a text prompt using the ChucK programming language. 
 
 ## Prerequisites
-Before using this script, you need to have an OpenAI API key. If you don't have one, sign up on the OpenAI website and obtain your API key.
+There is an optional script(ChatGPT.py) that uses the OpenAI API key. If you don't have one, sign up on the OpenAI website and obtain your API key.
 
 ## Requirements
 * Python 3.x
